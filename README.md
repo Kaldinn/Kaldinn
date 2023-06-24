@@ -4,8 +4,13 @@
 
 <h1 align="left">Hello World!</h1> 
 
-![GIF](coding.gif)
+<h1 align="center">
 
+  ![GIF](coding.gif)
+  
+</h1> 
+    
+  
 ###
 
 <p align="left">I am an aspiring Junior Python Developer with a strong passion for coding and problem-solving. Currently, I am actively learning and developing my skills in Python programming. I have a solid foundation in the basics of Python and I am eager to apply my knowledge to real-world projects.</p>
@@ -16,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/E-Commerce_Django">MyE-Commerce Webiste</a><br>🌱 I'm currently learning: Django/AWS <br> 🤴 I would like to learn: Docker,MongoDB <br>📨 danielskulimowski.biuro@gmail.com.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/E-Commerce_Django">MyE-Commerce Webiste</a><br>🌱 I'm currently learning: Django/AWS <br> 🤴 I would like to learn: Docker,MongoDB <br>📨 danielskulimowski.biuro@gmail.com</p>
 
 ###
 
