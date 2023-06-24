@@ -1,8 +1,8 @@
-<img align="right" height="200" src="https://media.tenor.com/U8_UWBYE45wAAAAd/rocket-liftoff.gif"  />
+<img align="right" height="200" src="https://tenor.com/pl/view/coding-gif-18657810"  />
 
 ###
 
-<h1 align="left">Hello World!!</h1>
+<h1 align="left">Hello World!</h1>
 
 ###
 
