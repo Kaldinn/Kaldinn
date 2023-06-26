@@ -13,7 +13,7 @@
   
 ###
 
-<p align="left">I am an aspiring Junior Python Developer with a strong passion for coding and problem-solving. Currently, I am actively learning and developing my skills in Python programming. I have a solid foundation in the basics of Python and I am eager to apply my knowledge to real-world projects.</p>
+<p align="left">I am an aspiring Junior Python Developer with a strong passion for coding and problem-solving. Currently, I am actively learning and developing my skills in Python. I have a solid foundation in the basics of Python and I am eager to apply my knowledge to real-world projects.</p>
 
 ###
 
