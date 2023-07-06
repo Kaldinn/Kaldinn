@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/E-Commerce_Django">MyE-Commerce Webiste</a><br>🌱 I'm currently learning: Django | REST Api <br> 🤴 I would like to learn: Docker,AWS <br>📨 danielskulimowski.biuro@gmail.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/Twitter_Clone">Twitter Clone </a><br>🌱 I'm currently learning: Django | REST Api <br> 🤴 I would like to learn: Docker,AWS <br>📨 danielskulimowski.biuro@gmail.com</p>
 
 ###
 
