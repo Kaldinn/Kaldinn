@@ -13,7 +13,7 @@
   
 ###
 
-<p align="left">I am an aspiring Junior Python Developer with a strong passion for coding and problem-solving. Currently, I am actively learning and developing my skills in Python. I have a solid foundation in the basics of Python and I am eager to apply my knowledge to real-world projects.</p>
+<p align="left">I'm a Python developer enthusiastic about learning and enhancing my skills. I thrive on challenges, enjoy problem-solving, and stay committed to staying updated with the latest in Python development. Deeply intrested about AI & ML and Cybersecurity.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/Twitter_Clone">Twitter Clone </a><br>🌱 I'm currently learning: Django | REST Api <br> 🤴 I would like to learn: Docker,AWS <br>📨 danielskulimowski.biuro@gmail.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/Kaldinn/Invoices">Invoices App </a><br>🌱 I'm currently learning: React | Cybersecurity <br> 🤴 I would like to learn: Docker, AWS <br>📨 danielskulimowski.biuro@gmail.com</p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ###
 
 <h2 align="left">Other Skills</h2>
